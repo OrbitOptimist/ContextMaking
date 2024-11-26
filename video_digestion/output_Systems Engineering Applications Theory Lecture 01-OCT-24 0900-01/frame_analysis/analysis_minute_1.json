@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 60,
+    "frame_path": "output_Systems Engineering Applications Theory Lecture 01-OCT-24 0900-01\\frame_60.jpg",
+    "analysis": {
+      "frames": "Frame 60: The slide shows information about setting up remote access tools for campus services and facilities. The title asks \"Are you set up for Remote Access?\". It lists two main tools - Multi-Factor Authentication with the Duo mobile app, and VPN with the Cisco AnyConnect app. There is a QR code provided to visit a website for instructions on installing these apps. The slide has a blue background with text and icons.",
+      "audio_visual_connections": "- The slide content does not directly relate to the speaker's statements in the given audio transcript, which discusses the module structure, coursework requirements, and assessment plans.\n- There appears to be no meaningful connection between the visuals on this slide and the topics being discussed in the lecture audio.\n- The slide seems to be providing general information about remote access tools, likely unrelated to the specific lecture content."
+    }
+  },
+  {
+    "timestamp": 70,
+    "frame_path": "output_Systems Engineering Applications Theory Lecture 01-OCT-24 0900-01\\frame_70.jpg",
+    "analysis": {
+      "frames": "Frame 70: The frame shows a computer screen with a web browser window open and a presentation slide displayed. The slide is titled \"Remote Access?\" and provides information about accessing campus services and facilities remotely. It lists two options: VPN and the Cisco AnyConnect app. There is also a URL provided for installing the required VPN and MFA apps. Additionally, there is a pop-up window in the bottom right corner related to Autodesk Access.",
+      "audio_visual_connections": "- The slide content is not directly related to the speaker's discussion about the module structure, coursework assignments, and feedback plans.\n- It appears to be a separate informational slide, likely shown to students for reference on how to access campus resources remotely.\n- The visual does not seem to have a strong connection to the specific audio segment transcribed, as the speaker is explaining the overall module details and requirements."
+    }
+  },
+  {
+    "timestamp": 80,
+    "frame_path": "output_Systems Engineering Applications Theory Lecture 01-OCT-24 0900-01\\frame_80.jpg",
+    "analysis": {
+      "frames": "Frame 80: The frame shows a web browser window with the Google search homepage open. Next to it is a slide titled \"Need Remote Access?\" which provides information about accessing campus services and facilities remotely using a VPN (Cisco AnyConnect app). It instructs to install the MFA and VPN apps with a link provided. There is also a Windows system notification about NVIDIA Control Panel not being found.",
+      "audio_visual_connections": "- The slide content is likely related to the speaker discussing remote access options for students to campus resources and services, potentially due to the module being conducted remotely or online.\n- The Google search page shown could indicate the speaker was demonstrating how to access the provided link or search for the required VPN/MFA apps.\n- The NVIDIA notification seems unrelated to the main topic and may have been an incidental system message.\n- The visual aids support the audio explanation about setting up remote access capabilities needed for the coursework or accessing campus facilities virtually."
+    }
+  },
+  {
+    "timestamp": 90,
+    "frame_path": "output_Systems Engineering Applications Theory Lecture 01-OCT-24 0900-01\\frame_90.jpg",
+    "analysis": {
+      "frames": "Frame 90: The frame shows a web browser window with a Google Chrome dialog about turning on an ad privacy feature. There is also a slide displayed titled \"Need Remote Access?\" which provides information about accessing campus services like VPN and the Cisco AnyConnect app. Additionally, there is a system notification about NVIDIA Control Panel not being found.",
+      "audio_visual_connections": "- The lecturer is discussing the module structure, coursework requirements, and assessment details. However, the visuals in this frame seem unrelated to the current audio content.\n- The Chrome dialog about ad privacy settings and the system notification about NVIDIA Control Panel appear to be incidental elements from the presenter's computer interface, not directly relevant to the lecture topic.\n- The slide about remote access methods like VPN could potentially relate to accessing university resources for coursework, but the speaker is not explicitly referring to it in this segment."
+    }
+  },
+  {
+    "timestamp": 100,
+    "frame_path": "output_Systems Engineering Applications Theory Lecture 01-OCT-24 0900-01\\frame_100.jpg",
+    "analysis": {
+      "frames": "Frame 100: The frame shows a web browser window with a Google search bar and search suggestions related to \"veve\" or \"vevey\", which could be a company or location. There is also a slide displayed titled \"Remote Access?\" which provides information about accessing campus services and facilities through a VPN (Virtual Private Network) and the Cisco AnyConnect app. It instructs to install MFA (Multi-Factor Authentication) and VPN apps, with a link to uc.uk/services/it/remote.",
+      "audio_visual_connections": "- The speaker is likely discussing remote access options for students/staff to connect to university resources and systems from off-campus locations.\n- The slide visuals support the explanation of using a VPN solution like Cisco AnyConnect to securely access campus networks and services remotely.\n- The search suggestions could be related to looking up information about a company/location called \"Veve\" or \"Vevey\", but this seems unrelated to the main topic of remote access being presented.\n- There are no direct connections made between the visuals and the speaker's audio in this particular frame, as the audio transcription is not provided."
+    }
+  },
+  {
+    "timestamp": 110,
+    "frame_path": "output_Systems Engineering Applications Theory Lecture 01-OCT-24 0900-01\\frame_110.jpg",
+    "analysis": {
+      "frames": "Frame 110: This frame shows a login screen for Loughborough University. It has fields to enter a username and password, as well as options to reset a forgotten password or get help. There is also a section displaying information about remote access options like VPN and the Cisco AnyConnect app for accessing campus services and facilities remotely.",
+      "audio_visual_connections": "- The login screen is likely being shown as an example or reference during the lecture, potentially related to discussing remote access or university systems.\n- However, there does not appear to be a direct connection between the visuals in this frame and the specific audio segment provided, which covers the module structure, coursework components, and assessment details.\n- The visual aids in this frame seem unrelated to the current topic being discussed by the speaker."
+    }
+  }
+]

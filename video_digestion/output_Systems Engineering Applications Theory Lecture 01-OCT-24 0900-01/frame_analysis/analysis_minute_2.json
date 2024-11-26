@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 120,
+    "frame_path": "output_Systems Engineering Applications Theory Lecture 01-OCT-24 0900-01\\frame_120.jpg",
+    "analysis": {
+      "frames": "Frame 120: null",
+      "audio_visual_connections": "- The frame shows a computer desktop interface with File Explorer and other application windows open, which are non-informational overlays and system interfaces that should be skipped according to the instructions.\n- Based on the audio transcript, the speaker is introducing the module, discussing the coursework assignments, topics to be covered like requirements, systems design, validation and verification, as well as the assessment structure involving individual and group work.\n- However, there are no direct connections between the specific visual elements in this frame and the speaker's statements, as the frame just shows the instructor's computer desktop which is not directly relevant to the lecture content being discussed."
+    }
+  },
+  {
+    "timestamp": 130,
+    "frame_path": "output_Systems Engineering Applications Theory Lecture 01-OCT-24 0900-01\\frame_130.jpg",
+    "analysis": {
+      "frames": "Frame 130: The frame shows a computer screen with the Loughborough University \"Learn\" virtual learning environment open. The main window displays the \"My Modules\" section with navigation menus, a calendar, and a list of recently accessed course materials. An overlay slide shows information about accessing campus services remotely, including using a VPN and the Cisco AnyConnect app. There is also a notification about the NVIDIA Control Panel not being found.",
+      "audio_visual_connections": "- The lecturer is likely discussing remote access options for students to connect to university resources and services from off-campus locations.\n- The slide content about VPN and the Cisco AnyConnect app provides visual support for the audio explanation about remote access methods.\n- The \"Learn\" environment shown is the virtual platform where students can access their course materials, suggesting the lecturer may be walking through how to use this system remotely.\n- The calendar and list of recent course items indicate this is part of an actual lecture, tying the visual aids to the instructional context described in the audio."
+    }
+  },
+  {
+    "timestamp": 140,
+    "frame_path": "output_Systems Engineering Applications Theory Lecture 01-OCT-24 0900-01\\frame_140.jpg",
+    "analysis": {
+      "frames": "Frame 140: The frame shows a web browser window displaying the Loughborough University Learn portal. The main area shows search results for a module code \"wsc312\" titled \"Systems Engineering Applications Theory\". Details like the module leader's name and the category \"The Wolfson School of Mechanical, Electrical and Manufacturing Engineering\" are provided. The interface has navigation menus, sizing options, and user account information displayed.",
+      "audio_visual_connections": "- The lecturer is likely discussing the structure and details of the \"Systems Engineering Applications Theory\" module in this session, based on the search results shown.\n- The on-screen information provides context about the module, such as its categorization under a specific school/department and the module leader assigned to it.\n- The search interface suggests the lecturer may be navigating through the university's online learning platform to access module resources or information relevant to the lecture.\n- The visual aids in understanding the administrative and organizational aspects of the module being taught, complementing the verbal explanations provided by the lecturer."
+    }
+  },
+  {
+    "timestamp": 150,
+    "frame_path": "output_Systems Engineering Applications Theory Lecture 01-OCT-24 0900-01\\frame_150.jpg",
+    "analysis": {
+      "frames": "Frame 150: The frame shows a computer screen displaying the Loughborough University's online learning platform called \"Learn\". The main content area shows details of a module titled \"WSC312 Systems Engineering Applications Theory\". It has sections for module information, assessment submission, lecture materials, and module administration options like activity results, staff contact details, learning outcomes, content, teaching and learning methods, assessments, and module specifications. There are also sidebars for navigation to other modules, latest news, user profile, and a \"ReVIEW\" section for lecture capture utilities.",
+      "audio_visual_connections": "- The slide content matches the speaker's explanation about the structure and assessments for the \"WSC312 Systems Engineering Applications Theory\" module.\n- The navigation menus and sections align with the lecturer's references to accessing module information, submitting coursework, reviewing lecture recordings, and module administration details.\n- The visual layout with separate areas for module overview, assessments, materials, and administration supports the lecturer's description of the different components covered in the module.\n- The \"ReVIEW\" section for lecture capture correlates with the lecturer's mention of being able to review completed recordings of the sessions."
+    }
+  },
+  {
+    "timestamp": 160,
+    "frame_path": "output_Systems Engineering Applications Theory Lecture 01-OCT-24 0900-01\\frame_160.jpg",
+    "analysis": {
+      "frames": "Frame 160: The frame shows a computer screen displaying the Loughborough University's online learning platform called \"Learn\". The main content area shows details of a module titled \"WSC312 Systems Engineering Applications Theory\". It has sections for module information, assessment submission, lecture materials, and module administration options like activity results, staff contact details, learning outcomes, content, teaching and learning methods, assessments, and feedback methods. The interface has a purple and blue color scheme with the university's logo.",
+      "audio_visual_connections": "- The lecturer is introducing the structure and assessments for the \"Systems Engineering Applications Theory\" module, matching the on-screen module details.\n- They mention an individual coursework worth 40% related to requirements analysis, aligning with the \"Assessment Information Submits\" section shown.\n- The group coursework and peer assessment components they describe correspond to the collaborative learning approach implied by the group work functionality of the online platform.\n- The feedback plans mentioned by the lecturer, like workshop sessions and feedback lectures, likely utilize the platform's capabilities for sharing materials, submissions, and communication.\n- The overall presentation visually supplements the lecturer's explanations about the module's topics, assessments, and learning activities by displaying the relevant organizational framework and tools."
+    }
+  },
+  {
+    "timestamp": 170,
+    "frame_path": "output_Systems Engineering Applications Theory Lecture 01-OCT-24 0900-01\\frame_170.jpg",
+    "analysis": {
+      "frames": "Frame 170: null",
+      "audio_visual_connections": "- The slide shows the login page for a platform called Vevox, which seems to be a polling and Q&A tool for online engagement.\n- The speaker is likely introducing this tool to the students as part of the module on systems engineering and thinking.\n- The visual aids in explaining how this interactive platform will be utilized during the lectures, workshops and coursework components of the module.\n- The login screen visually demonstrates one of the tools or methods that will be integrated into the systems approach being taught in this module."
+    }
+  }
+]
